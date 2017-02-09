@@ -4,13 +4,13 @@ Webpack loader to get the first path in an SVG file.
 
 ## Install
 
-```
+```bash
 npm i svg-path-loader
 ```
 
 ## Usage
 
-```
+```jsx
 // Without a webpack loader config
 import path1 from './image1.svg';
 
@@ -29,7 +29,7 @@ export default function Icon() {
 
 ## Webpack loader config
 
-```
+```js
 {
   test: /\.svg$/,
   loader: 'svg-path-loader',
