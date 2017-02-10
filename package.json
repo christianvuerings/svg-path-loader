@@ -1,6 +1,6 @@
 {
   "name": "svg-path-loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Webpack loader to get the first path in a SVG file",
   "main": "src/index.js",
   "repository": {
