@@ -3,7 +3,18 @@
   "version": "0.0.1",
   "description": "Webpack loader to get the first path in a SVG file",
   "main": "src/index.js",
-  "repository": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christianvuerings/svg-path-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "svg",
+    "loader"
+  ],
+  "bugs": {
+    "url": "https://github.com/christianvuerings/svg-path-loader/issues"
+  },
   "author": "Christian Vuerings <vueringschristian@gmail.com>",
   "license": "MIT",
   "scripts": {
