@@ -14,7 +14,7 @@ npm i svg-path-loader
 
 ```jsx
 // Without a webpack loader config
-import path1 from './image1.svg';
+import path1 from 'svg-path-loader!./image1.svg';
 
 // With a webpack loader config
 import path2 from './image2.svg';
